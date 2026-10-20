@@ -61,7 +61,7 @@ export function PaintingPage({ onBackToHome, onOpenQuoteModal }) {
       badge: 'Complete Home Solution',
       image: heroBg,
       imgPosition: 'right',
-      desc: 'Elevate your property value and aesthetic appeal with a total residential makeover. From initial color consultation and sample testing to final handover, Bayat and our team deliver unmatched quality.',
+      desc: 'Elevate your property value and aesthetic appeal with a total residential makeover. From initial color consultation and sample testing to final handover, Jay and our team deliver unmatched quality.',
       features: [
         'Free professional color consultation & sample test patches',
         'Integrated interior & exterior repaint packages',

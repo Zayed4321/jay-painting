@@ -116,7 +116,7 @@ export default function App() {
 
       {/* Floating Quick Action Widget (Bottom Right) */}
       <div className="floating-quick-widget">
-        <a href="tel:0410129008" className="widget-btn widget-phone" title="Call Bayat: 0410 129 008">
+        <a href="tel:0410129008" className="widget-btn widget-phone" title="Call Jay: 0410 129 008">
           <Phone size={20} />
           <span className="widget-label">0410 129 008</span>
         </a>

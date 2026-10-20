@@ -23,7 +23,7 @@ export function AboutPage({ onBackToHome, onOpenQuoteModal }) {
             <h3>More Details Coming Soon</h3>
             <p>We are currently updating our company history, team profiles, and Australian regional coverage maps for this section.</p>
             <button className="btn btn-primary mt-4" onClick={onOpenQuoteModal}>
-              Contact Bayat Today
+              Contact Jay Today
             </button>
           </div>
         </div>

@@ -44,7 +44,7 @@ export function Footer({ setActivePage, onOpenQuoteModal }) {
               </li>
               <li>
                 <Phone size={18} className="footer-icon text-red" />
-                <a href="tel:0410129008" className="footer-link-bold">0410 129 008 (Bayat)</a>
+                <a href="tel:0410129008" className="footer-link-bold">0410 129 008 (Jay)</a>
               </li>
               <li>
                 <Mail size={18} className="footer-icon" />

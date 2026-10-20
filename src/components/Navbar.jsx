@@ -39,7 +39,7 @@ export function Navbar({ activePage, setActivePage, onOpenQuoteModal }) {
           <div className="top-bar-right">
             <a href="tel:0410129008" className="top-info-link highlight-phone">
               <Phone size={15} className="top-icon" />
-              <span><strong>0410 129 008</strong> (Bayat)</span>
+              <span><strong>0410 129 008</strong> (Jay)</span>
             </a>
             <span className="top-divider">|</span>
             <a href="mailto:bayat.wassi@yahoo.com.au" className="top-info-link">

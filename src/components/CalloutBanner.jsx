@@ -10,7 +10,7 @@ export function CalloutBanner({ onOpenQuoteModal }) {
             <h3 className="callout-title">Need Professional Painting Services?</h3>
             <p className="callout-desc">
               Whether it's a single room refresh or a complete residential or commercial property repaint, 
-              get an instant free estimate from Bayat today.
+              get an instant free estimate from Jay today.
             </p>
           </div>
 

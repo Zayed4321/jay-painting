@@ -9,7 +9,7 @@ export function TestimonialsSection() {
       location: 'Melbourne, VIC',
       rating: 5,
       role: 'Homeowner',
-      text: 'Bayat and his team transformed our 4-bedroom home interior in just 3 days! Clean, fast, and impeccably neat lines around all architraves. Highly recommended!',
+      text: 'Jay and his team transformed our 4-bedroom home interior in just 3 days! Clean, fast, and impeccably neat lines around all architraves. Highly recommended!',
       featured: false
     },
     {

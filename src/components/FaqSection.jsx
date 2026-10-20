@@ -25,7 +25,7 @@ export function FaqSection({ onOpenQuoteModal }) {
     },
     {
       q: 'Are your quotes free and non-obligatory?',
-      a: 'Yes! All our quotes are 100% free and carry zero obligation. Bayat and our team will inspect your property or review your plans and provide an itemized fixed quote.'
+      a: 'Yes! All our quotes are 100% free and carry zero obligation. Jay and our team will inspect your property or review your plans and provide an itemized fixed quote.'
     },
     {
       q: 'What paint brands do you use?',
@@ -100,7 +100,7 @@ export function FaqSection({ onOpenQuoteModal }) {
                 </div>
                 <div className="fq-text">
                   <span className="fq-title">Free On-Site Quote</span>
-                  <span className="fq-sub">Call Bayat: 0410 129 008</span>
+                  <span className="fq-sub">Call Jay: 0410 129 008</span>
                 </div>
                 <button className="btn btn-sm btn-primary mt-2" onClick={onOpenQuoteModal}>
                   Get Quote

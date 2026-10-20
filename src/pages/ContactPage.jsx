@@ -21,7 +21,7 @@ export function ContactPage({ onBackToHome, onOpenQuoteModal }) {
     <div className="page-wrapper">
       <SubPageBanner 
         title="Contact Us" 
-        subtitle="Get in touch with Bayat for a free quote, site inspection, or inquiries regarding our painting services in Melbourne, VIC." 
+        subtitle="Get in touch with Jay for a free quote, site inspection, or inquiries regarding our painting services in Melbourne, VIC." 
         onBackToHome={onBackToHome}
         onOpenQuoteModal={onOpenQuoteModal}
       />
@@ -34,7 +34,7 @@ export function ContactPage({ onBackToHome, onOpenQuoteModal }) {
             <div className="contact-info-column">
               <h2 className="section-title text-left">Get In Touch</h2>
               <p className="contact-intro">
-                Have questions or ready to schedule your free quote? Call Bayat directly or send us a message below.
+                Have questions or ready to schedule your free quote? Call Jay directly or send us a message below.
               </p>
 
               <div className="contact-cards-stack">
@@ -43,7 +43,7 @@ export function ContactPage({ onBackToHome, onOpenQuoteModal }) {
                     <Phone size={24} />
                   </div>
                   <div className="contact-card-text">
-                    <h4>Direct Phone (Bayat)</h4>
+                    <h4>Direct Phone (Jay)</h4>
                     <a href="tel:0410129008" className="contact-val highlight-val">0410 129 008</a>
                     <p className="contact-sub text-slate">Available Mon - Sat, 7am - 6pm</p>
                   </div>
@@ -94,7 +94,7 @@ export function ContactPage({ onBackToHome, onOpenQuoteModal }) {
                     </div>
                     <h3>Message Sent Successfully!</h3>
                     <p className="my-3">
-                      Thank you <strong>{formData.name}</strong>. Bayat will get back to you shortly regarding your inquiry.
+                      Thank you <strong>{formData.name}</strong>. Jay will get back to you shortly regarding your inquiry.
                     </p>
                     <a href="tel:0410129008" className="btn btn-primary mt-4">
                       <Phone size={16} />

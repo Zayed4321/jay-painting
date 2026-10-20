@@ -38,13 +38,13 @@ export function QuoteModal({ isOpen, onClose }) {
             </div>
             <h3 className="success-title">Quote Request Received!</h3>
             <p className="success-desc">
-              Thank you, <strong>{formData.name}</strong>. Bayat from Jay Painting Services will review your project details and contact you shortly at <strong>{formData.phone || formData.email}</strong>.
+              Thank you, <strong>{formData.name}</strong>. Jay from Jay Painting Services will review your project details and contact you shortly at <strong>{formData.phone || formData.email}</strong>.
             </p>
             <div className="success-contact-box">
               <p>For urgent inquiries, feel free to call directly:</p>
               <a href="tel:0410129008" className="btn btn-primary btn-sm mt-2">
                 <Phone size={16} />
-                <span>Call Bayat: 0410 129 008</span>
+                <span>Call Jay: 0410 129 008</span>
               </a>
             </div>
             <button className="btn btn-outline-quote w-full mt-4" onClick={resetForm}>
@@ -59,7 +59,7 @@ export function QuoteModal({ isOpen, onClose }) {
                 <span>Fast Free Quote</span>
               </div>
               <h2>Get a Free Painting Quote</h2>
-              <p>Fill in your details below and Bayat will provide an accurate, fixed-price estimate.</p>
+              <p>Fill in your details below and Jay will provide an accurate, fixed-price estimate.</p>
             </div>
 
             <form onSubmit={handleSubmit} className="quote-form">
