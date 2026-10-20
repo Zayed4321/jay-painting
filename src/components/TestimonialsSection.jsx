@@ -14,7 +14,7 @@ export function TestimonialsSection() {
     },
     {
       name: 'David & Sarah Jenkins',
-      location: 'Sydney, NSW',
+      location: 'Melbourne, VIC',
       rating: 5,
       role: 'Residential Client',
       text: 'Extremely professional painting service. They pressure washed our exterior render, fixed minor plaster cracks, and painted our double-story home to perfection. Worth every dollar!',
@@ -22,7 +22,7 @@ export function TestimonialsSection() {
     },
     {
       name: 'Robert Thornton',
-      location: 'Brisbane, QLD',
+      location: 'Melbourne, VIC',
       rating: 5,
       role: 'Commercial Facility Manager',
       text: 'Jay Painting Services completed our corporate office repaint over the weekend without disrupting business hours. Honest pricing, premium Dulux paint, and outstanding finish.',
@@ -39,7 +39,7 @@ export function TestimonialsSection() {
             <MessageSquareQuote size={16} className="badge-icon" />
             <span>TESTIMONIALS</span>
           </div>
-          <h2 className="section-title">What Our Australian Clients Say</h2>
+          <h2 className="section-title">What Our Melbourne Clients Say</h2>
           <p className="section-subtitle">
             Read real feedback from homeowners and businesses who trust Jay Painting Services.
           </p>
