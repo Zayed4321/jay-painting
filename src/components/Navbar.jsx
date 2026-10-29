@@ -42,9 +42,9 @@ export function Navbar({ activePage, setActivePage, onOpenQuoteModal }) {
               <span><strong>0410 129 008</strong> (Jay)</span>
             </a>
             <span className="top-divider">|</span>
-            <a href="mailto:bayat.wassi@yahoo.com.au" className="top-info-link">
+            <a href="mailto:info@jaypaintingservices.com.au" className="top-info-link">
               <Mail size={15} className="top-icon" />
-              <span>bayat.wassi@yahoo.com.au</span>
+              <span>info@jaypaintingservices.com.au</span>
             </a>
           </div>
         </div>

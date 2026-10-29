@@ -48,7 +48,7 @@ export function Footer({ setActivePage, onOpenQuoteModal }) {
               </li>
               <li>
                 <Mail size={18} className="footer-icon" />
-                <a href="mailto:bayat.wassi@yahoo.com.au">bayat.wassi@yahoo.com.au</a>
+                <a href="mailto:info@jaypaintingservices.com.au">info@jaypaintingservices.com.au</a>
               </li>
             </ul>
           </div>

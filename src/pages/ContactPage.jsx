@@ -55,7 +55,7 @@ export function ContactPage({ onBackToHome, onOpenQuoteModal }) {
                   </div>
                   <div className="contact-card-text">
                     <h4>Email Address</h4>
-                    <a href="mailto:bayat.wassi@yahoo.com.au" className="contact-val">bayat.wassi@yahoo.com.au</a>
+                    <a href="mailto:info@jaypaintingservices.com.au" className="contact-val">info@jaypaintingservices.com.au</a>
                     <p className="contact-sub text-slate">Fast email response within 24 hours</p>
                   </div>
                 </div>
